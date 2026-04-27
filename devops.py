@@ -1,1 +1,2 @@
-"print('Devops Lab')" 
+print('Devops Lab')
+print('Practical Exam')
